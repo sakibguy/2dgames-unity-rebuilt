@@ -1,5 +1,4 @@
-# Made in Bangladesh
-## R&D: Playlagom Manufacturing & Assembly Inc Limited 
-## Makeapp: Russian Game Industry
+# Rebuilt wOrK 1
 
-#### gamename (unity2d game)
+## 1-MAKEAPP
+### game 1: TODO
