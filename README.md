@@ -1,4 +1,4 @@
-# rebuild wOrK 5
+# rebuild wOrK 6
 
 ## 1-RU/MAKEAPP
 ### game 1: WATERPASS
@@ -6,3 +6,4 @@
 ### game 3: WINDLEBALL
 ### game 4: FINDTHESOCCER
 ### game 5: SEGMENTSPORT
+### game 6: TRUEKICKMAN
