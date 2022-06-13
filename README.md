@@ -1,4 +1,4 @@
-# rebuild wOrK 7
+# rebuild wOrK 8
 
 ## 1-RU/MAKEAPP
 ### game 1: WATERPASS
@@ -8,3 +8,4 @@
 ### game 5: SEGMENTSPORT
 ### game 6: TRUEKICKMAN
 ### game 7: BALANCETILT
+### game 8: RINGOCATCHER
