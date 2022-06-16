@@ -1,4 +1,4 @@
-# rebuild wOrK 18
+# rebuild wOrK 19
 
 ## 1-RU/MAKEAPP
 ### game 1: WATERPASS
@@ -19,3 +19,4 @@
 ### game 16: BALLSANDCUPS
 ### game 17: SNEAKYSNAKE
 ### game 18: GALAXYBATTLE
+### game 19: ENDLESSMANIA
